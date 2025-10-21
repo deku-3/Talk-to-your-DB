@@ -33,7 +33,14 @@ Perfect for teams who want quick insights without writing a single line of SQL.
 - 🔒 **Secure architecture** — database credentials stay on the server  
 
 ---
+## 📸 Project Screenshots
 
+### 🖥️ App Interface
+![App Screenshot](assets/Screenshot 2025-10-21 204755.png)
+
+### 📊 Result Page
+![Result Screenshot](assets/Screenshot 2025-10-21 210508.png)
+---
 ## 🧰 Tech Stack
 | Component | Technology |
 |------------|-------------|
