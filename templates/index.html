@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Natural Language to SQL</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <div class="form-container">
+    <h1 class="form-title">Ask a Question to your Database</h1>
+    <form method="POST" action="/nl-to-sql">
+      <label for="nl_query">Natural Language Query:</label>
+      <input 
+        type="text" 
+        name="nl_query" 
+        id="nl_query" 
+        placeholder="e.g. Show me the top 5 selling products this month" 
+        required
+      >
+      <input type="submit" value="Generate SQL & Answer">
+    </form>
+  </div>
+</body>
+</html>
