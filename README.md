@@ -36,10 +36,10 @@ Perfect for teams who want quick insights without writing a single line of SQL.
 ## 📸 Project Screenshots
 
 ### 🖥️ App Interface
-![App Screenshot](assets/Screenshot%202025-10-21%20204755.png)
+![App Screenshot](Assets/Screenshot%202025-10-21%20204755.png)
 
 ### 📊 Result Page
-![Result Screenshot](assets/Screenshot%202025-10-21%20210508.png)
+![Result Screenshot](Assets/Screenshot%202025-10-21%20210508.png)
 ---
 ## 🧰 Tech Stack
 | Component | Technology |
